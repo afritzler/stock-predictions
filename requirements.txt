@@ -9,7 +9,7 @@ Cython==0.29.20
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-ephem==4.0.0.2
+ephem==3.7.7.1
 fbprophet==0.6
 holidays==0.10.2
 importlib-metadata==1.6.1
@@ -27,7 +27,7 @@ jupyter-core==4.6.3
 kiwisolver==1.2.0
 korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9
-MarkupSafe==2.0.1
+MarkupSafe==1.1.1
 matplotlib==3.2.2
 mistune==0.8.4
 nbconvert==5.6.1
@@ -42,8 +42,8 @@ pexpect==4.8.0
 pickleshare==0.7.5
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-ptyprocess==0.6.0
-Pygments==2.7.4
+ptyprocess==0.7.0
+Pygments==2.6.1
 PyMeeus==0.5.11
 pyparsing==2.4.7
 pyrsistent==0.16.0
