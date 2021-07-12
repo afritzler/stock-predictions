@@ -11,7 +11,7 @@ defusedxml==0.6.0
 entrypoints==0.3
 ephem==4.0.0.2
 fbprophet==0.7.1
-holidays==0.10.2
+holidays==0.11.1
 importlib-metadata==4.6.1
 ipykernel==6.0.1
 ipython==7.15.0
