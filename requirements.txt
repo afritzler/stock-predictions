@@ -9,7 +9,7 @@ Cython==0.29.23
 decorator==5.0.9
 defusedxml==0.6.0
 entrypoints==0.3
-ephem==3.7.7.1
+ephem==4.0.0.2
 fbprophet==0.7.1
 holidays==0.10.2
 importlib-metadata==4.6.1
