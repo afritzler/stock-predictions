@@ -58,7 +58,7 @@ setuptools-git==1.2
 six==1.16.0
 terminado==0.10.1
 testpath==0.4.4
-tornado==6.0.4
+tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.4
 webencodings==0.5.1
