@@ -57,7 +57,7 @@ Send2Trash==1.7.1
 setuptools-git==1.2
 six==1.16.0
 terminado==0.10.1
-testpath==0.4.4
+testpath==0.5.0
 tornado==6.1
 traitlets==5.0.5
 wcwidth==0.2.5
