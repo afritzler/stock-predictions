@@ -2,7 +2,7 @@ appnope==0.1.2
 attrs==21.2.0
 backcall==0.2.0
 bleach==4.0.0
-cmdstanpy==0.9.76
+cmdstanpy==0.9.77
 convertdate==2.3.2
 cycler==0.10.0
 Cython==0.29.24
