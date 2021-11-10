@@ -12,7 +12,7 @@ entrypoints==0.3
 ephem==4.1
 fbprophet==0.7.1
 holidays==0.11.3.1
-importlib-metadata==4.8.1
+importlib-metadata==4.8.2
 ipykernel==6.5.0
 ipython==7.29.0
 ipython-genutils==0.2.0
