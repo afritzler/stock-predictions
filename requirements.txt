@@ -13,7 +13,7 @@ ephem==4.1.1
 fbprophet==0.7.1
 holidays==0.11.3.1
 importlib-metadata==4.8.2
-ipykernel==6.5.1
+ipykernel==6.6.0
 ipython==7.30.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
