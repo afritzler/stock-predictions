@@ -6,7 +6,7 @@ cmdstanpy==1.0.0
 convertdate==2.3.2
 cycler==0.11.0
 Cython==0.29.26
-decorator==5.1.0
+decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.3
 ephem==4.1.3
