@@ -14,7 +14,7 @@ fbprophet==0.7.1
 holidays==0.12
 importlib-metadata==4.10.0
 ipykernel==6.6.1
-ipython==7.31.0
+ipython==8.0.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 jedi==0.18.1
