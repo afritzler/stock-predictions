@@ -5,7 +5,7 @@ bleach==4.1.0
 cmdstanpy==1.0.0
 convertdate==2.4.0
 cycler==0.11.0
-Cython==0.29.26
+Cython==0.29.27
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.3
