@@ -24,7 +24,7 @@ jupyter==1.0.0
 jupyter-client==7.1.2
 jupyter-console==6.4.3
 jupyter-core==4.9.2
-kiwisolver==1.4.1
+kiwisolver==1.4.2
 korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9
 MarkupSafe==2.1.1
