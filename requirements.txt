@@ -29,7 +29,7 @@ korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9
 MarkupSafe==2.1.1
 matplotlib==3.5.2
-mistune==2.0.2
+mistune==2.0.3
 nbconvert==6.5.0
 nbformat==5.4.0
 notebook==6.4.12
