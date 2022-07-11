@@ -23,7 +23,7 @@ jsonschema==4.6.2
 jupyter==1.0.0
 jupyter-client==7.3.4
 jupyter-console==6.4.4
-jupyter-core==4.11.0
+jupyter-core==4.11.1
 kiwisolver==1.4.3
 korean-lunar-calendar==0.2.1
 LunarCalendar==0.0.9
