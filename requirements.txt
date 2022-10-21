@@ -30,7 +30,7 @@ LunarCalendar==0.0.9
 MarkupSafe==2.1.1
 matplotlib==3.6.1
 mistune==2.0.4
-nbconvert==7.2.1
+nbconvert==7.2.2
 nbformat==5.7.0
 notebook==6.5.1
 numpy==1.23.4
